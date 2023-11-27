@@ -6,3 +6,9 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)	Clone repositorio
+(02)	Editar bitácora
+(03)	Commit "Paso 03"			Es necesario añadir los documentos 
+									que se quieran guardar antes de realizar
+									el commit
+(04)	Push master
