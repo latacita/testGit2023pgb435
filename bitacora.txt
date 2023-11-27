@@ -41,3 +41,10 @@
 (27)	Merge feature/Ticket221		En Sourcetree basta con pulsar el botón de merge y
 									elegir la rama correspondiente. Es necesario resolver
 									los conflictos y reordenar el fichero
+(29)	Commit "Paso 29"
+(30)	Tag Step29					En Sourcetree vale con hacer click derecho sobre el
+									commit y seleccionar la opción tag
+(31)	Push develop				En Sourcetree al pulsar el botón de push te da la opción
+									de no subir los tags
+(32)	Checkout feature/Ticket222
+(33)	Merge develop
