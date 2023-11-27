@@ -12,3 +12,9 @@
 									que se quieran guardar antes de realizar
 									el commit
 (04)	Push master
+(10)	Commit "Paso 10"
+(11)	Checkout develop			En Sourcetree vale con pulsar dos veces
+									sobre la rama a la que nos queremos desplazar
+(12)	Branch feature/Ticket221
+(16)	Commit "Paso 16"
+(17)	Checkout feature/Ticket221
