@@ -16,3 +16,8 @@
 (07)	Branch develop				Desde Sourcetree valdría con dar al botón
 									branch para crear y desplazarse a esta rama
 (08)	Branch feature/Ticket220	""
+(14)	Checkout feature/Ticket220	Ha sido necesario crear un stash en la rama
+									feature/Ticket221 para no perder los cambios
+									sin la necesidad de crear una nueva versión,
+									ya que si no generamos una versión o no hacemos
+									un stash no se permite cambiar de rama.
