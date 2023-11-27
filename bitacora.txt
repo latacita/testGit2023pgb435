@@ -48,3 +48,8 @@
 									de no subir los tags
 (32)	Checkout feature/Ticket222
 (33)	Merge develop
+(35)	Commit "Paso 35"
+(36)	Checkout develop
+(37)	Merge feature/Ticket222
+(38)	Checkout master
+(39)	Merge develop
