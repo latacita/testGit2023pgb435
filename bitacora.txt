@@ -16,11 +16,17 @@
 (07)	Branch develop				Desde Sourcetree valdría con dar al botón
 									branch para crear y desplazarse a esta rama
 (08)	Branch feature/Ticket220	""
+(10)	Commit "Paso 10"
+(11)	Checkout develop			En Sourcetree vale con pulsar dos veces
+									sobre la rama a la que nos queremos desplazar
+(12)	Branch feature/Ticket221
 (14)	Checkout feature/Ticket220	Ha sido necesario crear un stash en la rama
 									feature/Ticket221 para no perder los cambios
 									sin la necesidad de crear una nueva versión,
 									ya que si no generamos una versión o no hacemos
 									un stash no se permite cambiar de rama.
+(16)	Commit "Paso 16"
+(17)	Checkout feature/Ticket221
 (18)	Apply stash					Es necesario aplicar el stash correspondiente
 									para recuperar los cambios que guardamos antes
 									de cambiar de rama
@@ -28,3 +34,10 @@
 (20)	Checkout develop
 (21)	Branch feature/Ticket222
 (22)	Checkout feature/Ticket220	La fusión con develop se realizará por fast-forward
+(24)	Commit "Paso 24"
+(25)	Checkout develop
+(26)	Merge feature/Ticket220		En Sourcetree basta con pulsar el botón de merge y
+									elegir la rama correspondiente
+(27)	Merge feature/Ticket221		En Sourcetree basta con pulsar el botón de merge y
+									elegir la rama correspondiente. Es necesario resolver
+									los conflictos y reordenar el fichero
