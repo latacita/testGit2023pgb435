@@ -12,3 +12,7 @@
 									que se quieran guardar antes de realizar
 									el commit
 (04)	Push master
+(06)	Commit "Paso 04"
+(07)	Branch develop				Desde Sourcetree valdría con dar al botón
+									branch para crear y desplazarse a esta rama
+(08)	Branch feature/Ticket220	""
