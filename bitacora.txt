@@ -21,3 +21,10 @@
 									sin la necesidad de crear una nueva versión,
 									ya que si no generamos una versión o no hacemos
 									un stash no se permite cambiar de rama.
+(18)	Apply stash					Es necesario aplicar el stash correspondiente
+									para recuperar los cambios que guardamos antes
+									de cambiar de rama
+(19)	Commit "Paso 19"
+(20)	Checkout develop
+(21)	Branch feature/Ticket222
+(22)	Checkout feature/Ticket220	La fusión con develop se realizará por fast-forward
